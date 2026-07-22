@@ -32,4 +32,4 @@ Este projeto utiliza as seguintes tecnologias e conceitos:
 - [x] PyQt5 para a interface gráfica
 - [x] Padrões de Design para garantir uma interface intuitiva e responsiva
 
-
+.
